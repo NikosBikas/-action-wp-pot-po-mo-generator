@@ -1,0 +1,43 @@
+# Copyright (C) 2023 Crowdyflow
+# This file is distributed under the This theme or plugin is comprised of two parts. (1) the PHP code and integrated HTML are licensed under the General Public License (GPL). You will find a copy of the GPL in the same directory as this text file. (2) All other parts, but not limited to the CSS code, images, and design are licensed according to the license purchased from Envato.  Read more about licensing here: http://themeforest.net/licenses.
+msgid ""
+msgstr ""
+"Project-Id-Version: Axtra 1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/SLUG_OF_PLUGIN_OR_THEME\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-04-05T22:46:44+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: TEXT_DOMAIN_OF_PLUGIN_OR_THEME\n"
+
+#. Theme Name of the theme
+msgid "Axtra"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://axtra.wealcoder.com/"
+msgstr ""
+
+#. Description of the theme
+msgid "Axtra – Construction & Architecture WordPress Theme suitable for various types of professional Construction, Industrial, Manufacturing, Factory, Company, Small Scale Industry, Business, and Engineering websites. This Theme is specially designed for those who want to start their Industrial website."
+msgstr ""
+
+#. Author of the theme
+msgid "Crowdyflow"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://themeforest.net/user/crowdyflow"
+msgstr ""
+
+#. Template Name of the theme
+msgid "WithOut Footer"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Default Elementor Page"
+msgstr ""
