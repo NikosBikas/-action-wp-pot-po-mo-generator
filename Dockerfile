@@ -1,4 +1,4 @@
-FROM wordpress
+FROM wordpress:cli
 
 USER root
 RUN apk add --no-cache git jq
