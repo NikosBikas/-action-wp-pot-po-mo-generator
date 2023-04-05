@@ -1,5 +1,9 @@
 name: Generate Translations
-on: workflow_dispatch
+on:
+  push:
+    branches:
+      - develop
+
 jobs:
   generate-translations:
     runs-on: ubuntu-latest
@@ -7,9 +11,5 @@ jobs:
     - uses: actions/checkout@v2
     - name: WordPress POT/PO/MO Generator
       uses: NikosBikas/wp-pot-po-mo-generator@master
-      with:
-        destination_path: './languages'
-        slug: 'SLUG_OF_PLUGIN_OR_THEME'
-        text_domain: 'TEXT_DOMAIN_OF_PLUGIN_OR_THEME'
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
