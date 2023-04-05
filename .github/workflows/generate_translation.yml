@@ -11,5 +11,6 @@ jobs:
         destination_path: './languages'
         slug: 'SLUG_OF_PLUGIN_OR_THEME'
         text_domain: 'TEXT_DOMAIN_OF_PLUGIN_OR_THEME'
+        generate_mo: '1'
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
